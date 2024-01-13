@@ -1,0 +1,6 @@
+.wrapper{
+    background: var(--lighter-base-bg);
+    padding: 32px 0 32px 0;
+    display: flex;
+    justify-content: center;
+}
